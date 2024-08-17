@@ -1,0 +1,20 @@
+{
+  "name": "7rakatcli1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "./index.js",
+  "dependencies": {
+    "commander": "^12.1.0",
+    "inquirer": "^10.1.8",
+    "lodash": "^4.17.21",
+    "undici-types": "^6.18.2"
+  },
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
